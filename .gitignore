@@ -1,2 +1,10 @@
 .env
-.gitignore
+env/
+venv/
+alembic.ini
+alembic/env.py
+__pycache__/
+*.pyc
+*.pyo
+pip-wheel-metadata/
+pip-log.txt
